@@ -1,1 +1,1 @@
-# pdf-compressor
+# PDF Compressor
